@@ -1,0 +1,18 @@
+[submodule "kiswitch"]
+	path = kiswitch
+	url = https://github.com/kiswitch/kiswitch
+[submodule "KiCad-RP-Pico"]
+	path = KiCad-RP-Pico
+	url = https://github.com/ncarandini/KiCad-RP-Pico
+[submodule "kicad-lib-arduino"]
+	path = kicad-lib-arduino
+	url = https://github.com/g200kg/kicad-lib-arduino
+[submodule "marbastlib"]
+	path = marbastlib
+	url = https://github.com/ebastler/marbastlib
+[submodule "kleeb"]
+	path = kleeb
+	url = https://github.com/crides/kleeb
+[submodule "Keebio-Parts.pretty"]
+	path = Keebio-Parts.pretty
+	url = https://github.com/keebio/Keebio-Parts.pretty
